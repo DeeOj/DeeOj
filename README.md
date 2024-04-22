@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1>Hi, I'm Dennis! </h1>
 
-<!--
-**DeeOj/DeeOj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> My Cybersecurity Projects 👨‍💻:</h2>
 
-Here are some ideas to get you started:
+- <b>P1</b>
+  - [coming](https://githb.com/joshmadakor1/Algorithms-Practice)
+- <b>P2</b>
+  - [coming](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(coming)</b></i>
+- <b>P3</b>
+  - [coming](https://githb.com/joshmadakor1/Sentinel-Lab)
+  - [coming](https://githb.com/joshmadakor1/Jwipe.PowerShell)
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Certifications:</h2>
+
+  - <b>Certified in Cybersecurity (ISC2)</b> (link)
+  - <b>IBM Cybersecurity Analyst Certificated</b> (link)
+
+
+<h2> Connect with me 🤳:</h2>
+
+[<img align="left" alt="JoshMadako | LnkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/joshmadako
+
