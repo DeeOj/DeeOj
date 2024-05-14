@@ -2,25 +2,17 @@
 
 <h2> My Cybersecurity Projects 👨‍💻:</h2>
 
-- <b>P1</b>
-  - [coming](https://githb.com/joshmadakor1/Algorithms-Practice)
-- <b>P2</b>
-  - [coming](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(coming)</b></i>
-- <b>P3</b>
-  - [coming](https://githb.com/joshmadakor1/Sentinel-Lab)
-  - [coming](https://githb.com/joshmadakor1/Jwipe.PowerShell)
+- <b>MAC ADDRESS CHANGER</b>
+  - [MAC spoofing](https://githb.com/joshmadakor1/Algorithms-Practice)
+
   
 
-<h2> Certifications:</h2>
+<h2> Certificates & Certifications:</h2>
 
-  - <b>Certified in Cybersecurity (ISC2)</b> (link)
-  - <b>IBM Cybersecurity Analyst Certificated</b> (link)
-
-
-<h2> Connect with me 🤳:</h2>
-
-[<img align="left" alt="JoshMadako | LnkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  - <b>Certified in Cybersecurity (ISC2)</b>
+  - <b>IBM Cybersecurity Analyst Certificated</b> 
 
 
-[linkedin]: https://linkedin.com/in/joshmadako
+<h2> Contact me:</h2>
 
+- denniscyb@gmail.com 
