@@ -3,7 +3,7 @@
 <h2> My Cybersecurity Projects 👨‍💻:</h2>
 
 - <b>MAC ADDRESS CHANGER</b>
-  - [MAC spoofing](https://githb.com/joshmadakor1/Algorithms-Practice)
+  - [MAC spoofing](https://github.com/DeeOj/MAC-Address-Changer)
 
   
 
