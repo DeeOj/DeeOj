@@ -3,7 +3,7 @@
 <h2> My Cybersecurity Projects 👨‍💻:</h2>
 
 - <b>MAC ADDRESS CHANGER</b>
-  - [Click here▶️](https://github.com/DeeOj/MAC-Address-Changer)
+  - [Click to view ▶️](https://github.com/DeeOj/MAC-Address-Changer)
 
   
 
