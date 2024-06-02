@@ -2,6 +2,9 @@
 
 <h2> My Cybersecurity Projects 👨‍💻:</h2>
 
+- <b> HONEYPOT </b>
+  - [click to view ▶️](https://github.com/DeeOj/Honeypot---RDP-Attacks-)
+
 - <b>VULNERABILITY MANAGEMENT LAB</b>
   - [click to view ▶️](https://github.com/DeeOj/Vulnerability-Mangement-Lab)
 
