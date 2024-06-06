@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dennis! </h1>
 
-<h2> My Cybersecurity Projects 👨‍💻:</h2>
+<h2> My Cybersecurity Projects 💻👨‍💻🖥️ :</h2>
 
 - <b> HONEYPOT </b>
   - [click to view ▶️](https://github.com/DeeOj/Honeypot---RDP-Attacks-)
