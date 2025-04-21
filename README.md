@@ -20,9 +20,8 @@
 
 <h2> Certificates & Certifications:</h2>
 
-  - <b>Certified in Cybersecurity (ISC2)</b>
   - <b>IBM Cybersecurity Analyst Certificate</b> 
-
+  - <b>Security +</b>
 
 <h2> Contact me:</h2>
 
