@@ -1,4 +1,4 @@
-# Dennis
+Dennis
 
 <h2> My Cybersecurity Projects 💻👨‍💻🖥️ :</h2>
 
