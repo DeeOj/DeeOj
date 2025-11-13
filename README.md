@@ -19,10 +19,11 @@
 
 
 <h2> Certificates & Certifications:</h2>
-  - <b> Certified CyberDefender (CCD) </b>b>
-  - <b>Security +</b>
-  - ISO 27001:2022 LA
-  - <b>IBM Cybersecurity Analyst Certificate</b> 
+
+  - <b> Certified CyberDefender (CCD) </b>
+  - <b> Security +</b>
+  - <b> ISO 27001:2022 LA </b>
+  - <b> IBM Cybersecurity Analyst Certificate</b> 
   
 
 <h2> Contact me:</h2>
