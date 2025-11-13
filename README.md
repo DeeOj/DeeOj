@@ -1,4 +1,4 @@
-Dennis
+<h1>Hi, I'm Dennis! </h1>
 
 <h2> My Cybersecurity Projects 💻👨‍💻🖥️ :</h2>
 
@@ -19,9 +19,11 @@ Dennis
 
 
 <h2> Certificates & Certifications:</h2>
-
-  - <b>IBM Cybersecurity Analyst Certificate</b> 
+  - <b> Certified CyberDefender (CCD) </b>b>
   - <b>Security +</b>
+  - ISO 27001:2022 LA
+  - <b>IBM Cybersecurity Analyst Certificate</b> 
+  
 
 <h2> Contact me:</h2>
 
