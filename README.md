@@ -11,8 +11,12 @@
 - <b> VULNERABILITY MANAGEMENT LAB</b>
   - [click to view ▶️](https://github.com/DeeOj/Vulnerability-Mangement-Lab)
 
+- <b> IDENTITY AND ACCESS MANAGEMENT ON AWS</b>
+  - [click to view ▶️](https://github.com/DeeOj/IAM-on-AWS)
+
 - <b> ACTIVE DIRECTORY </b>
-  - [click to view ▶️](https://github.com/DeeOj/Active-Directory)  
+  - [click to view ▶️](https://github.com/DeeOj/Active-Directory)
+  
 
 - <b> MAC ADDRESS CHANGER</b>
   - [Click to view ▶️](https://github.com/DeeOj/MAC-Address-Changer)
